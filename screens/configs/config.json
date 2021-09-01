@@ -1,0 +1,13 @@
+{
+	"projectName": "Block",
+	"packageName": "com.rockstargames.block",
+	"webSite": "https://vk.com/alexblock1",
+	"vk": "https://vk.com/alexblock1",
+	"info": "https://vk.com/alexblock1",
+	"filesFull": "http://slaughter.perses.feralhosting.com/data.zip",
+	"texdbA": "http://slaughter.perses.feralhosting.com/texdbA.zip",
+	"texdbM": "http://slaughter.perses.feralhosting.com/texdbM.zip",
+	"texdbP": "http://slaughter.perses.feralhosting.com/texdbP.zip",
+	"baseClient": "http://slaughter.perses.feralhosting.com/base_client.apk",
+	"launcher": "http://j93773tz.beget.tech/launcher.apk"
+}
